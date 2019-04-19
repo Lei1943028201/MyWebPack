@@ -12,3 +12,4 @@ function component() {
 }
 
 document.body.appendChild(component());
+// 冲突
