@@ -12,4 +12,4 @@ function component() {
 }
 
 document.body.appendChild(component());
-// 你好
+// two
