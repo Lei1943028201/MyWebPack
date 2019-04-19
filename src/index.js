@@ -12,4 +12,4 @@ function component() {
 }
 
 document.body.appendChild(component());
-// 测试
+// 测试nav
